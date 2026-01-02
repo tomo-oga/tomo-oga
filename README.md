@@ -1,6 +1,5 @@
 ### 👋 Hi. I’m @tomo-oga
-- 👀 I’m an AI/ML enthusiast, working on novel spatio-temporal architectures in my free time. 
-- 💼 I’m currently working [@gyorilab](https://gyorilab.github.io) on the [trialsynth](https://github.com/gyorilab/trialsynth) project.
+- 👀 I’m currently a Machine Learning Scientist Intern at matterworks, working on the next-generation of foundation models for mass spectrometry.
 - 📫 Feel free to reach me at oga.t@northeastern.edu!
 - 😄 Pronouns: she/her
 
